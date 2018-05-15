@@ -1,23 +1,28 @@
-banner: img/banner.png
+banner: 
 
-who: "40 physics students, from the Italian Association of Physics Students and the International Association of Physics Students. All background and nationalities are welcome!"
+who: "40 physics students, half from the Italian Association of Physics Students and half from the junge Deutsche Physikalische Gesellschaft."
 
-when: "Between the 2th and the 6th of October 2016."
+when: "From the 5th to the 9th November 2018"
 
-where: "In central Italy. Students will meet in Rome and visit the University of Rome - Tor Vergata. On the second day, they will visit INFN laboratories in Frascati. They will then move to the city of L'Aquila to spend two days at the LNGS and GSSI facilities."
+where: "In Trieste, the beautiful city in the north east border of Italy."
 
 slideshow:
-  - img: img/LNGS_home.jpg
-    alt: Gran Sasso National Laboratories
-    title: LNGS
-    text: Gran Sasso National Laboratories
-  - img: img/GSSI_home.jpg
-    alt: Gran Sasso Science Institute
-    title: GSSI
-    text: Gran Sasso Science Institute
-  - img: img/LNF_home.jpg
-    alt: Italian National Agency for Nuclear Physics
-    title: LNF
-    text: Italian National Agency for Nuclear Physics
+  - img: https://www.sissa.it/sites/default/files/sissa-building10.jpg
+    alt: Scuola Internazionale Superiore di Studi Avanzati
+    title: SISSA
+    text: Scuola Internazionale Superiore di Studi Avanzati
+  - img: https://www.ictp.it/ImageHandler.ashx?maxsize=1024&path=/media/13304/Ariel%20View_E935FAFF5D2B157A11ADD1CFDC3F10609E24B519.jpg
+    alt: ICTP
+    title: International Centre for Theoretical Physics
+    text: International Centre for Theoretical Physics
+  - img: ihttp://www.oleodinamicapneumatica.it/files/2014/04/FOTO-3B-areasciencepark.jpg
+    alt: ELETTRA
+    title: ELETTRA
+    text: Elettra Sincrotrone Trieste
+  - img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UniversitaTrieste.jpg/1200px-UniversitaTrieste.jpg
+    alt: Università degli Studi di Trieste
+    title: uniTS
+    text: Università degli Studi di Trieste
+    
 
-paragraph: "The Particle & Astroparticle Physics Programme, now at its second edition, is organised by the Italian Association of Physics Students and is open to all members of the International Association of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists."
+paragraph: "The German Italian Physics Exchange, now at its second edition, is organised by the Italian Association of Physics Students as part of a cultural and scientific exchange with the junge Deutsche Physikalische Gesellschaft. The event will bring 40 students to visit some of the most advanced research facilities in Italy with one key mission: to foster enthusiasm in the minds of young physicists."
