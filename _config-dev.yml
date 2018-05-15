@@ -1,6 +1,6 @@
 # Site settings
-# title: "Acr Ev"
-# description: "nome evento completo"
+ title: "GIPE18"
+ description: "German Italian Physics Exchange 2018"
 #url: "/" # the base hostname & protocol for your site
 destination: ../site/
 locale: "it"
