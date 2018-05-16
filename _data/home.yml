@@ -7,23 +7,23 @@ when: "From the 5th to the 9th November 2018"
 where: "In Trieste, the beautiful city in the north east border of Italy."
 
 slideshow:
-  - img: img/test.jpg
+  - img: img/test.JPG
     alt: Scuola Internazionale Superiore di Studi Avanzati
     title: SISSA
     text: Scuola Internazionale Superiore di Studi Avanzati
-  - img: img/ictp.jpg
+  - img: img/ictp.JPG
     alt: International Centre for Theoretical Physics
     title: ICTP
     text: International Centre for Theoretical Physics
-  - img: img/elettra.jpg
+  - img: img/elettra.JPG
     alt: ELETTRA
     title: ELETTRA
     text: Elettra Sincrotrone Trieste
-  - img: img/units.jpg
+  - img: img/units.JPG
     alt: Università degli Studi di Trieste
     title: uniTS
     text: Università degli Studi di Trieste
-  - img: img/infn.jpg 
+  - img: img/infn.JPG
     alt: Istituto di Fisica Nucleare
     title: INFN
     text: Istituto Nazionale di Fisica Nucleare
