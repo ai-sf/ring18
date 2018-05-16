@@ -7,7 +7,7 @@ when: "From the 5th to the 9th November 2018"
 where: "In Trieste, the beautiful city in the north east border of Italy."
 
 slideshow:
-  - img: sissa.jpg
+  - img: img/test.jpg
     alt: Scuola Internazionale Superiore di Studi Avanzati
     title: SISSA
     text: Scuola Internazionale Superiore di Studi Avanzati
