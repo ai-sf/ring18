@@ -1,42 +1,41 @@
-intro: "Test"
+intro: ""
 accommodation:
-   - img: img/hotelmilano.jpg
-     title: Hotel Milano
-     descr: "Hotel Milano is in a strategic position: it's in the city centre, close to the Unità d'Italia Square. Buffet breakfast included, comfortable and cozy rooms."
-     shortdes: "Trieste Centre"
-     site: http://www.hotel-milano.com/ZINGindex.html
-     map: https://goo.gl/maps/sbZZLrX9YhB2
- 
-
+  - img: img/hotelmilano.jpg
+    title: Hotel Milano
+    descr: "Hotel Milano is in a strategic position: it's in the city centre, close to the Unità d'Italia Square. Buffet breakfast included, comfortable and cozy rooms."
+    shortdes: "Trieste Centre"
+    site: http://www.hotel-milano.com/ZINGindex.html
+    map: https://goo.gl/maps/sbZZLrX9YhB2
+    
 science:
-   - img: img/uniTS.jpg
-     title: uniTS
-     descr: ""
-     shortdes: "Trieste University"
-     site: https://df.units.it/en
-     map: https://goo.gl/maps/jgw8Nt2PVmk
+  - img: img/uniTS.jpg
+    title: uniTS
+    descr: ""
+    shortdes: "Trieste University"
+    site: https://df.units.it/en
+    map: https://goo.gl/maps/jgw8Nt2PVmk
   - img: img/sissa.jpg
-     title: SISSA
-     descr: ""
-     shortdes: "International School for Advanced Studies"
-     site: https://www.sissa.it/
-     map: https://goo.gl/maps/MAw4RMeXVVK2
+    title: SISSA
+    descr: ""
+    shortdes: "International School for Advanced Studies"
+    site: https://www.sissa.it/
+    map: https://goo.gl/maps/MAw4RMeXVVK2
   - img: img/infn.jpg
-     title: INFN
-     descr: ""
-     shortdes: "National Institute for Nuclear Physics"
-     site: https://www.ts.infn.it/en/
-     map: https://goo.gl/maps/htex59jyXkJ2
+    title: INFN
+    descr: ""
+    shortdes: "National Institute for Nuclear Physics"
+    site: https://www.ts.infn.it/en/
+    map: https://goo.gl/maps/htex59jyXkJ2
   - img: img/ictp.jpg
-     title: ICTP
-     descr: ""
-     shortdes: "International Centre for Theoretical Physics"
-     site: https://www.ictp.it/
-     map: https://goo.gl/maps/Xp9GHvkXGaQ2
+    title: ICTP
+    descr: ""
+    shortdes: "International Centre for Theoretical Physics"
+    site: https://www.ictp.it/
+    map: https://goo.gl/maps/Xp9GHvkXGaQ2
   - img: img/elettra.jpg
-     title: ELETTRA
-     descr: ""
-     shortdes: "Elettra Sincrotrone Trieste"
-     site: https://www.elettra.trieste.it/
-     map: https://goo.gl/maps/rervxEEqD742
+    title: ELETTRA
+    descr: ""
+    shortdes: "Elettra Sincrotrone Trieste"
+    site: https://www.elettra.trieste.it/
+    map: https://goo.gl/maps/rervxEEqD742
 
