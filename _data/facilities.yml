@@ -2,7 +2,7 @@ intro: ""
 accommodation:
   - img: img/hotelmilano.jpg
     title: Hotel Milano
-    descr: "Hotel Milano is in a strategic position: it's in the city centre, close to the Unita' d'Italia Square. Buffet breakfast included, comfortable and cozy rooms."
+    descr: "Hotel Milano is in a strategic position; it's in the city centre, close to the Unita' d'Italia Square. Buffet breakfast included, comfortable and cozy rooms."
     shortdes: "Trieste Centre"
     site: http://www.hotel-milano.com/ZINGindex.html
     map: https://goo.gl/maps/sbZZLrX9YhB2
@@ -10,7 +10,7 @@ accommodation:
 science:
   - img: img/units.jpg
     title: uniTS
-    descr: "At present there are 48 faculty members at the Department of Physics, active in the following areas: Theoretical Physics, experimental and theoretical studies on Condensed Matter, Particles and Nuclei, Astrophysics and Astronomy, and Applied Physics. A roughly equivalent number of PhD students, postdoc fellows, visitors and research associates contribute to the research effort.<br><br>Research activities are carried out with cutting-edge equipment and facilities, on the main university campus, at the local Area Science Park, and at national and international laboratories, in collaboration with Italian and international research institutions.<br><br>The quality of the research produced is indicated by the number of publications in international peer-reviewed journals, and offers excellent opportunities to students both at the undergraduate level and at the Graduate Schools of Physics and Nanotechnology to learn the most advanced techniques and methods in mainstream physics. Students are actively encouraged to engage with both the Italian and international research environments so as to increase their chances of finding employment."
+    descr: "At present there are 48 faculty members at the Department of Physics, active in the following areas; Theoretical Physics, experimental and theoretical studies on Condensed Matter, Particles and Nuclei, Astrophysics and Astronomy, and Applied Physics. A roughly equivalent number of PhD students, postdoc fellows, visitors and research associates contribute to the research effort.<br><br>Research activities are carried out with cutting-edge equipment and facilities, on the main university campus, at the local Area Science Park, and at national and international laboratories, in collaboration with Italian and international research institutions.<br><br>The quality of the research produced is indicated by the number of publications in international peer-reviewed journals, and offers excellent opportunities to students both at the undergraduate level and at the Graduate Schools of Physics and Nanotechnology to learn the most advanced techniques and methods in mainstream physics. Students are actively encouraged to engage with both the Italian and international research environments so as to increase their chances of finding employment."
     shortdes: "Trieste University"
     site: https://df.units.it/en
     map: https://goo.gl/maps/jgw8Nt2PVmk
