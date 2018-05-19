@@ -37,7 +37,7 @@ science:
     site: https://www.ictp.it/
     map: https://goo.gl/maps/Xp9GHvkXGaQ2
   
-   -img: img/elettra.jpg
+  - img: img/elettra.jpg
     title: ELETTRA
     descr: "Elettra Sincrotrone Trieste is a multidisciplinary international research center of excellence, specialized in generating high quality synchrotron and free-electron laser light and applying it in materials and life sciences. <br> The main assets of the research centre are two advanced light sources, the electron storage ring Elettra and the free-electron laser (FEL) FERMI, continuously (H24) operated supplying light of the selected "colour" and quality to more than 30 experimental stations. These facilities enable the international community of researchers from academy and industry to characterize structure and function of matter with sensitivity down to molecular and atomic levels, to pattern and nanofabricate new structures and devices, and to develop new processes."
     shortdes: "Elettra Sincrotrone Trieste"
