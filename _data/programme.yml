@@ -3,7 +3,7 @@ info: ""
 last_update: 
 
 schedule:
-   - day: Monday
+  - day: Monday
     date: "05/11"
     short_descr: Arrival and Welcome ceremony
     activity:
@@ -13,7 +13,7 @@ schedule:
         descr: "Welcome Ceremony at the University of Trieste"
       - hour: "Evening"
         descr: "Trieste By Night"
-   - day: Tuesday
+  - day: Tuesday
     date: "06/11"
     short_descr: SISSA and ICTP
     activity:
@@ -23,7 +23,7 @@ schedule:
         descr: "Lectures and Student Talks @ ICTP"
       - hour: "Evening"
         descr: "Trieste By Night"
-   - day: Wednesday
+  - day: Wednesday
     date: "07/11"
     short_descr: ELETTRA & Area Science Park
     activity:
@@ -33,6 +33,7 @@ schedule:
         descr: "Lectures and Workshop @ INFN and Area Science Park"
       - hour: "Evening"
         descr: "Trieste By Night"
+  - day: Thursday
     date: "08/11"
     short_descr: City Tour
     activity:
