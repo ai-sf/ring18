@@ -1,6 +1,6 @@
 info: ""
 
-posters?: true
+posters?: false
 
 posters: ""
 
@@ -28,11 +28,4 @@ terms:
 deadlines:
   info: ""
   specs:
-    - text: "A first round of registration for the event will be open at this page between "
-      url: "#!"
-    - text: "Following the registration period, we expect to email all applicants within 10 days. The selection process will end before . Payments will then be required (by bank transfer or PayPal) within 10 days of receiving an acceptance email from the organising committee."
-      url: "#!"
-    - text: "Preference will be given to students presenting abstracts (for either a talk or a poster), even though only 5 applicants will eventually be able to give a talk, and 5 to present a poster. Please notice that applicants do not need to be specialising in the field of nuclear physics, but can be from any discipline of Physics."
-      url: "#!"
-    - text: "Observer places, i.e. those for students who choose not to present scientific contributions, will be awarded based on short 100-word motivations to be submitted during the registration process."
-      url: "#!"
+   
