@@ -7,23 +7,23 @@ when: "Dal 6 al 9 Settembre 2018"
 where:"A Ginevra e al CERN, nel confine tra Francia e Svizzera"
 
 slideshow:
-  - img: img/sissa.jpg
+  - img: img/cern.jpg
     alt: CERN
     title: CERN
     text: Conseil européen pour la recherche nucléaire
-  - img: img/ictp.jpg
+  - img: img/isolde.jpg
     alt: ISOLDE
     title: ISOLDE
     text: Isotope Separator On Line DEvice
-  - img: img/elettra.jpg
+  - img: img/atlas.jpg
     alt: ATLAS
     title: ATLAS
     text: A Toroidal LHC ApparatuS
-  - img: img/units.jpg
+  - img: img/cms.jpg
     alt: CMS
     title: CMS
     text: Compact Muon Solenoid
-  - img: img/infn.jpg
+  - img: img/lhcb.jpg
     alt: LHCb
     title: LHCb
     text: LHCbeauty
