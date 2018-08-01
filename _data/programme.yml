@@ -8,7 +8,7 @@ schedule:
     short_descr: Arrivi e cerimonia di apertura
     activity:
       - hour: "Pomeriggio"
-        descr: "Arriv"
+        descr: "Arrivo"
       - hour: "Sera"
         descr: "Cerimonia di apertura e serata libera"
   - day: Venerdì
@@ -26,7 +26,7 @@ schedule:
     short_descr: CERN, CMS e Ginevra
     activity:
       - hour: "Mattino"
-        descr: "Visita CERN e MS"
+        descr: "Visita CERN e CMS"
       - hour: "Pomeriggio"
         descr: "Visita guidata di Ginevra"
       - hour: "Sera"
