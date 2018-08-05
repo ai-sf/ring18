@@ -1,10 +1,10 @@
 banner: img/banner.jpg
 
-who: "40 studenti di fisica: 20 dal Comitato Locale AISF di Roma Tor Vergata e 20 dalle diverse universsità italiane."
+who: "40 studenti di fisica: 20 dal Comitato Locale AISF di Roma Tor Vergata e 20 dalle diverse università italiane."
 
 when: "Dal 6 al 9 Settembre 2018"
 
-where: "A Ginevra e al CERN, nel confine tra Francia e Svizzera"
+where: "A Ginevra e al CERN, al confine tra Francia e Svizzera"
 
 slideshow:
   - img: img/cern.jpg
@@ -28,4 +28,4 @@ slideshow:
     title: LHCb
     text: LHCbeauty
 
-paragraph: "La prima edizione di septembeR IN Genève è organizzata dall'Associazione Italiana Studenti di Fisica. L'evento porterà gli studenti di conoscere alcuni tra i maggiori esperimenti in corso al CERN con l'obiettivo di stimolare le menti dei giovani fisici."
+paragraph: "La prima edizione di septembeR IN Genève è organizzata dall'Associazione Italiana Studenti di Fisica. L'evento porterà gli studenti a conoscere alcuni tra i maggiori esperimenti in corso al CERN con l'obiettivo di stimolare le menti dei giovani fisici."
