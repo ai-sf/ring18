@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Facilities
+title: Luoghi
 ---
 
 <p>
@@ -8,7 +8,7 @@ title: Facilities
 </p>
 
 <div class="section">
-  <h2>Science Facilities</h2>
+  <h2>Esperimenti</h2>
 
   {% for item in site.data.facilities.science %}
     {% assign col = forloop.index0 | modulo:2 %}
@@ -51,7 +51,7 @@ title: Facilities
 </div>
 
 <div class="section">
-  <h2>Accommodation</h2>
+  <h2>Albergo</h2>
 
   {% for item in site.data.facilities.accommodation %}
     {% assign col = forloop.index0 | modulo:2 %}
