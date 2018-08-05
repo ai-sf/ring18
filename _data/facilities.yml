@@ -1,34 +1,32 @@
 intro: ""
 accommodation:
-  - img: img/hotelmilano.jpg
-    title: Hotel Milano
-    descr: "Hotel Milano is in a strategic position: it's in the city centre, close to the Unita' d'Italia Square. Buffet breakfast included, comfortable and cozy rooms."
-    shortdes: "Trieste Centre"
+  - img: img/
+    title: Hotel 
+    descr: ""
     site: http://www.hotel-milano.com/ZINGindex.html
     map: https://goo.gl/maps/sbZZLrX9YhB2
     
 science:
   
-  - img: img/units.jpg
-    title: uniTS
-    descr: "At present there are 48 faculty members at the Department of Physics, active in the following areas: Theoretical Physics, experimental and theoretical studies on Condensed Matter, Particles and Nuclei, Astrophysics and Astronomy, and Applied Physics. A roughly equivalent number of PhD students, postdoc fellows, visitors and research associates contribute to the research effort.<br>Research activities are carried out with cutting-edge equipment and facilities, on the main university campus, at the local Area Science Park, and at national and international laboratories, in collaboration with Italian and international research institutions.<br>The quality of the research produced is indicated by the number of publications in international peer-reviewed journals, and offers excellent opportunities to students both at the undergraduate level and at the Graduate Schools of Physics and Nanotechnology to learn the most advanced techniques and methods in mainstream physics. Students are actively encouraged to engage with both the Italian and international research environments so as to increase their chances of finding employment."
-    shortdes: "Trieste University"
-    site: https://df.units.it/en
-    map: https://goo.gl/maps/jgw8Nt2PVmk
+  - img: img/isolde.jpg
+    title: Isolde
+    descr: ""
+    shortdes: "Isolde"
+    site: http://isolde.web.cern.ch
+    map: https://goo.gl/maps/73Jn78mG8YA2
   
-  - img: img/sissa.jpg
-    title: SISSA
-    descr: "SISSA, the International School for Advanced Studies, was founded in 1978 and is a scientific center of excellence within the national and international academic scene. Located in Italy, in the city of Trieste, it features 71 professors, about 115 post-docs, 281 PhD students and 102 technical administrative staff. Situated on the scenic Karst upland, the School is surrounded by a 25 acre park, and offers a stunning view of the Gulf of Trieste.<br>The three main research areas of SISSA are Physics, Neuroscience and Mathematics.<br>All the scientific work carried out by SISSA researchers is published regularly in leading international journals with a high impact factor, and frequently in the most prestigious scientific journals such as Nature and Science. The School has also drawn up over 150 collaboration agreements with the world's leading schools and research institutes.<br>The quality level of the research is further confirmed by the fact that within the competitive field of European funding schemes SISSA holds the top position among Italian scientific institutes in terms of research grants obtained in relation to the number of researchers and professors. Such leadership should also be seen in terms of SISSA's ability to obtain funding, both from the private and public sectors, such PRIN."
-    shortdes: "International School for Advanced Studies"
-    site: https://www.sissa.it/
-    map: https://goo.gl/maps/MAw4RMeXVVK2
+  - img: img/cms.jpg
+    title: CMS
+    descr: "CMS"
+    site: https://cms.cern/detector
+    map: https://goo.gl/maps/4YHjs2YCg2G2
   
-  - img: img/infn.jpg
-    title: INFN
-    descr: "The italian National Institute of Nuclear Physics (INFN) is an organization dedicated to the study of the fundamental constituents of matter, and conducts theoretical and experimental research in the fields of subnuclear, nuclear, and astroparticle physics.<br>Fundamental research in these areas requires the use of cutting-edge technologies and instrumentation, which the INFN develops both in its own laboratories and in collaboration with the world of industry.<br>Moreover, INFN promotes the application of the skills, methods, and experimental techniques developed in the course of its own research to research in other fields, such as medicine, artistic preservation, and environmental protection. These activities are conducted in close collaboration with the academic world.<br>Groups from the universities of Rome, Padua, Turin, and Milan founded INFN on August 8, 1951 for the purpose of building upon the scientific tradition established during the 1930's by Enrico Fermi and his school, with their theoretical and experimental research on nuclear Physics. Research activity at the INFN is carried out at two complementary types of facilities: the Divisions (Sezioni) and the National Laboratories. Each of the Divisions is located at a university physics department. The Divisions thus provide a direct connection between the Institute and the academic world."
-    shortdes: "National Institute for Nuclear Physics"
-    site: https://www.ts.infn.it/en/
-    map: https://goo.gl/maps/htex59jyXkJ2
+  - img: img/atlas.jpg
+    title: ATLAS
+    descr: ""
+    shortdes: "ATLAS"
+    site: https://atlas.cern
+    map: https://goo.gl/maps/Y3z6xEriCYH2
   
   - img: img/ictp.jpg
     title: ICTP
