@@ -5,24 +5,25 @@ posters?: false
 posters: ""
 
 terms:
-  info: "Please read carefully and take note of the following:"
+  info: "Si prega di leggere attentamente e prendere nota di quanto segue:"
   specs:
-    - text: "All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the universities and research centres involved. We will also send your name and university to the board of the national/local committees of IAPS to check your IAPS membership."
+    - text: "Tutti i dati personali saranno trattati in modo confidenziale. Non saranno inoltrati a terzi, tranne ove necessario ai fini dell'evento. Si prega di tenere presente che inoltreremo alcune delle informazioni contenute nel modulo di registrazione alle università e ai centri di ricerca coinvolti. Inoltre, invieremo il tuo nome e la tua università al consiglio dei comitati nazionali/locali di IAPS per verificare la tua iscrizione IAPS."
       url: "#!"
-    - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference."
+    - text: "Solo gli studenti iscritti a un'università o istituzione in un corso di fisica o simili, fino a dodici mesi dopo aver ricevuto una laurea, sono in grado di partecipare a questo evento. Solo gli studenti con un'età di almeno 18 anni sono autorizzati a partecipare all'evento"
       url: "#!"
-    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in the Astroparticle Physics Autumn Programme 2016."
+    - text: "Riconosci e accetti che il comitato organizzatore e gli anfitrioni dell'evento non hanno alcuna responsabilità per lesioni, perdite o danni di qualsiasi tipo risultanti dalla partecipazione all'evento.
+"
       url: "#!"
-    - text: "You accept the IAPS Code of Conduct."
-      url: "files/IAPS_Code_of_Conduct.pdf"
+    - text: "Accetti il codice di condotta IAPS"
+      url: "https://www.iaps.info/wp-content/uploads/2007/11/Code-of-Conduct.pdf"
       button: "PDF"
-    - text: "By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie or any other form of media publication. You also confirm that the information contained in this application is true and correct."
+    - text: "Partecipando all'evento accetti di essere filmato, fotografato e registrato in altri modi durante la conferenza e con la presente concedi espressamente al comitato organizzatore, AISF e IAPS il diritto di utilizzare la tua foto, immagine o qualsiasi altra forma di pubblicazione sui media. Inoltre, confermi che le informazioni contenute in questa applicazione sono vere e corrette."
       url: "#!"
-    - text: "You accept that the organizing committee cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity."
+    - text: "Accetti che il comitato organizzatore non possa essere reso responsabile per il contenuto di qualsiasi discorso, poster, workshop, escursioni o attività simili."
       url: "#!"
-    - text: "You accept that, in case of cancellation by a participant, the Organising Committee will provide a reimbursement only if a replacement for the student can be found. No reimbursement will be given for membership fees under any circumstances. If a reimbursement were to be approved, the Organising Committee will retain a total of €10 from the fee as a contribution to the expenses to the event. All decisions about financial aspects of the event will need to be approved by the entire Organising Committee."
+    - text: "Accetti che, in caso di cancellazione da parte di un partecipante, il Comitato Organizzatore fornisca un rimborso solo se è possibile trovare un sostituto per lo studente. In nessun caso verranno rimborsate le quote associative. Se dovesse essere approvato un rimborso, il Comitato Organizzatore tratterrà un totale di € 10 dalla registrazione come contributo alle spese dell'evento. Tutte le decisioni sugli aspetti finanziari dell'evento dovranno essere approvate dall'intero Comitato Organizzatore."
       url: "#!"
-    - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
+    - text: "I presenti termini e condizioni sono regolati dalle leggi della Repubblica Italiana."
       url: "#!"
 
 deadlines:
