@@ -5,11 +5,10 @@ posters?: false
 posters: ""
 
 terms:
-  info: "La quota per partecipare all’evento è di 85€ per i membri AISF che comprende i pranzi, le colazioni, 3 notti in hotel, il trasporto e i gadget dell’evento. Se non siete membri AISF la quota é di 90€ e include la quota per essere membro AISF.
-Si prega di leggere attentamente e prendere nota di quanto segue:"
+  info: "La quota per partecipare all’evento è di 85€ per i membri AISF che comprende i pranzi, le colazioni, 3 notti in hotel, il trasporto e i gadget dell’evento. Se non siete membri AISF la quota é di 90€ e include la quota per essere membro AISF. Si prega di leggere attentamente e prendere nota di quanto segue:"
   specs:
     - text: "Tutti i dati personali saranno trattati in modo confidenziale. Non saranno inoltrati a terzi, tranne ove necessario ai fini dell'evento. Si prega di tenere presente che inoltreremo alcune delle informazioni contenute nel modulo di registrazione alle università e ai centri di ricerca coinvolti. Inoltre, invieremo il tuo nome e la tua università al consiglio dei comitati nazionali/locali di IAPS per verificare la tua iscrizione IAPS."
-
+      url: "#!"
     - text: "Solo gli studenti iscritti a un'università o istituzione in un corso di fisica o simili, fino a dodici mesi dopo aver ricevuto una laurea, sono in grado di partecipare a questo evento. Solo gli studenti con un'età di almeno 18 anni sono autorizzati a partecipare all'evento"
       url: "#!"
     - text: "Riconosci e accetti che il comitato organizzatore e gli anfitrioni dell'evento non hanno alcuna responsabilità per lesioni, perdite o danni di qualsiasi tipo risultanti dalla partecipazione all'evento.
