@@ -43,7 +43,7 @@ schedule:
 few_info:
   info: ""
   specs:
-    - text: "Per registrarsi all'evento bisogna essere membri AISF, se non lo siete potete registravi su ai-f.it"
+    - text: "Per registrarsi all'evento bisogna essere membri AISF, se non lo siete potete registravi su ai-sf.it/iscrizione"
       url: "#!"
     - text: "Selezioneremo 40 studenti, metà dal CL Roma Tor Vergata e metà dalle diverse università italiane"
       url: "#!"
