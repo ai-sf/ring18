@@ -1,7 +1,7 @@
 # Site settings
 title: "RING18"
 description: "septembeR IN Genève"
-url: "http://ai-sf.it/ring18" # the base hostname & protocol for your site
+url: "https://ai-sf.it/ring18" # the base hostname & protocol for your site
 destination: ../site/
 locale: "it"
 
